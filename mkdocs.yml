@@ -1,10 +1,13 @@
-site_name: Wizeline MkDocs Template
+site_name: Eduardo Ocejo Vallin
 nav:
   - Home: index.md
-  - About: about.md
+  - Experience: experience.md
+  - Education: education.md
+  - Writing Skills: skills-writing.md
+  - Additional Skills: skills-other.md
 
 theme:
-  name: material
+  name: cinder
   palette:
     primary: black
     accent: indigo
