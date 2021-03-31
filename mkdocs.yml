@@ -3,8 +3,7 @@ nav:
   - Home: index.md
   - Experience: experience.md
   - Education: education.md
-  - Writing Skills: skills-writing.md
-  - Additional Skills: skills-other.md
+  - Skills: skills.md
 
 theme:
   name: cinder
@@ -12,3 +11,6 @@ theme:
     primary: black
     accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+- css/extra.css
