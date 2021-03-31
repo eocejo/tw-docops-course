@@ -12,3 +12,6 @@ theme:
     primary: black
     accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+- css/extra.css
